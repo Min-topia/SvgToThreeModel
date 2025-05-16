@@ -29,8 +29,8 @@ SVG to 2.5D Converter 是一个基于 Vue 3 和 Three.js 的工具，能够将 S
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/handlesvgto2-5d.git
-cd handlesvgto2-5d
+git clone https://github.com/Min-topia/SvgToThreeModel.git
+cd SvgToThreeModel
 
 # 安装依赖
 npm install
