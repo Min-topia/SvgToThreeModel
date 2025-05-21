@@ -1,6 +1,6 @@
 # SVG to 2.5D Converter
 
-![Project Preview](preview.png) <!-- 添加项目预览图 -->
+![Project Preview](/public/preview.png) <!-- 添加项目预览图 -->
 
 ## 简介
 
